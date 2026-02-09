@@ -23,6 +23,7 @@ origins = [
     "http://localhost:3000",
     "http://127.0.0.1:8000",
     "https://phase-ii-todo-full-stack-web-applic.vercel.app",
+    "https://phase-2-todo-web-hgro.onrender.com",
     # In a production environment, you would add your frontend's production URL here
 ]
 
